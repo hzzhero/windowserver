@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/windows/server:ltsc2022  as build
+FROM  mcr.microsoft.com/windows:20H2
